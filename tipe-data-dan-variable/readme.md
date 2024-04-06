@@ -74,4 +74,4 @@ class, struct, interface, enum dan delegate.
     Console.WriteLine(nama);
 ```
 
-# Tipe Data String [Here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/tipe-data-&-variable/tipe-data-string.md)
+# Tipe Data String [Here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/tipe-data-dan-variable/tipe-data-string.md)
