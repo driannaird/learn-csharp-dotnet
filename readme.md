@@ -39,3 +39,5 @@ Install Visual Studio Code Extension
 ### Syntax C# Basic [here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/basic-syntax/readme.md)
 
 ### Tipe Data & Variable [here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/tipe-data-dan-variable/readme.md)
+
+### User Input [here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/user-input/readme.md)

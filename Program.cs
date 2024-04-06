@@ -7,7 +7,7 @@ namespace LearningCsharp{
             // Console.WriteLine("1. Elephant");
             // Console.WriteLine("2. Spider");
 
-            string nama = "Drian";
+            // string nama = "Drian";
             // int umur = 19;
             // double nilaiAkademik = 3.54;
 
@@ -31,6 +31,9 @@ namespace LearningCsharp{
 
             // // Print the result
             // Console.WriteLine(lasttext);
+
+            // string namaInput = Console.ReadLine();
+            // Console.WriteLine("Hallo " + namaInput);    
         }
     }
 }
