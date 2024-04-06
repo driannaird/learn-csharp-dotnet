@@ -13,6 +13,6 @@ Fungsi Read() dan ReadKey() akan membaca satu huruf saja dari teks yang kita ket
     // Create a string variable and get user input from the keyboard and store it in the variable
     string userName = Console.ReadLine();
 
-    // Print the value of the variable (userName), which will display the input value
+    // Print the value of the variable (userName), which will display the input valu e
     Console.WriteLine("Username is: " + userName);
 ```
