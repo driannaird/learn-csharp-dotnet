@@ -7,6 +7,7 @@
 ## Referensi dan Hasil belajar dari
 
 - [skilvul](https://skilvul.com/courses/csharp-dasar)
+- [w3schools](https://www.w3schools.com/cs)
 
 ## Instalasi
 
