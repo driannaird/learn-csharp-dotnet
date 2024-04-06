@@ -1,10 +1,10 @@
 # Instalasi C# and dotnet
 
-## Authors
+## Penulis
 
 - [@Drian-key](https://www.github.com/Drian-key)
 
-## Installation
+## Instalasi
 
 Install .NET SDK dan .NET Runtime
 
@@ -13,19 +13,19 @@ Install Visual Studio Code Extension
 - C# by Microsoft
 - C# Extensions
 
-### Create New Project
+### Buat Project Baru
 
 ```bash
   dotnet new console
 ```
 
-### Create Project Always Up To date With Dependencies
+### Create Project dan memastikan up to date
 
 ```bash
   dotnet restore
 ```
 
-### Run Program
+### Menjalankan Program
 
 ```bash
   dotnet run
