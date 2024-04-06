@@ -31,4 +31,4 @@ Install Visual Studio Code Extension
   dotnet run
 ```
 
-### Syntax C# Basic [here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/basic-syntax)
+### Syntax C# Basic [here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/basic-syntax/readme.md)
