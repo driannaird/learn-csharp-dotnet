@@ -30,3 +30,5 @@ Install Visual Studio Code Extension
 ```bash
   dotnet run
 ```
+
+### Syntax C# Basic [here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/basic-syntax)
