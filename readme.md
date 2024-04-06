@@ -4,6 +4,10 @@
 
 - [@Drian-key](https://www.github.com/Drian-key)
 
+## Referensi dan Hasil belajar dari
+
+- [skilvul](https://skilvul.com/courses/csharp-dasar)
+
 ## Instalasi
 
 Install .NET SDK dan .NET Runtime
@@ -32,3 +36,5 @@ Install Visual Studio Code Extension
 ```
 
 ### Syntax C# Basic [here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/basic-syntax/readme.md)
+
+### Tipe Data & Variable [here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/tipe-data-&-variable/readme.md)
