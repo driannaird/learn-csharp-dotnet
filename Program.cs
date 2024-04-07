@@ -34,6 +34,23 @@ namespace LearningCsharp{
 
             // string namaInput = Console.ReadLine();
             // Console.WriteLine("Hallo " + namaInput);    
+
+            // int myInt = 9;
+            // double myDouble = myInt;
+
+            // Console.WriteLine(myInt);
+            // Console.WriteLine(myDouble);
+
+            // Console.WriteLine(myInt.GetType());      // Outputs System.Int32
+            // Console.WriteLine(myDouble.GetType());   // Outputs System.Double
+
+            double myDouble = 9.78;
+            int myInt = (int) myDouble;
+            int myOtherInt = Convert.ToInt32(myDouble);
+
+            Console.WriteLine(myDouble);
+            Console.WriteLine(myInt);
+            Console.WriteLine(myOtherInt); 
         }
     }
 }
