@@ -75,3 +75,9 @@ class, struct, interface, enum dan delegate.
 ```
 
 # Tipe Data String [Here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/tipe-data-dan-variable/tipe-data-string.md)
+
+# Tipe Casting [Here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/tipe-data-dan-variable/tipe-casting.md)
+
+# Math [Here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/tipe-data-dan-variable/math.md)
+
+# Summary [Here](https://github.com/Drian-key/learn-csharp-dotnet/blob/main/tipe-data-dan-variable/summary.md)
