@@ -112,6 +112,41 @@ namespace LearningCsharp{
 
             // angka1 = angka1 - 1 (decrement)
             Console.WriteLine("Nilai angka1-- = {0}", angka1--);
+
+            Console.WriteLine("===== Comparison Operator");
+            int angka3, angka4 = 0;
+
+            Console.Write("jumlah angka3 = ");
+            angka3 = int.Parse(Console.ReadLine());
+            Console.Write("jumlah angka4 = ");
+            angka4 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Hasil perbandingan: ");
+            Console.WriteLine($"angka3 > angka4 : {angka3 > angka4}");
+            Console.WriteLine($"angka3 >= angka4 : {angka3 >= angka4}");
+            Console.WriteLine($"angka3 < angka4 : {angka3 < angka4}");
+            Console.WriteLine($"angka3 <= angka4 : {angka3 <= angka4}");
+            Console.WriteLine($"angka3 == angka4 : {angka3 == angka4}");
+            Console.WriteLine($"angka3 != angka4 : {angka3 != angka4}");
+
+            Console.WriteLine("===== Logical Operator =====");
+            long jumlahBeliRoti, jumlahBeliSusu;
+            long jumlahBeliMinimum = 4;
+
+            Console.Write("jumlah beli roti = ");
+            jumlahBeliRoti = int.Parse(Console.ReadLine());
+            Console.Write("jumlah beli susu = ");
+            jumlahBeliSusu = int.Parse(Console.ReadLine());
+
+            //SYARAT DISKON TOKO 1
+            //Jika jumlah roti >= jumlah minimum dan jumlah susu >= jumlah minimum maka dapat diskon
+            Console.WriteLine("Diskon Toko 1: " 
+                + $"{(jumlahBeliRoti>=jumlahBeliMinimum)&&(jumlahBeliSusu>=jumlahBeliMinimum)}");
+            
+            //SYARAT DISKON TOKO 2
+            //Jika jumlah roti >= jumlah minimum atau jumlah susu >= jumlah minimum maka dapat diskon
+            Console.WriteLine("Diskon Toko 2: " 
+                + $"{(jumlahBeliRoti>=jumlahBeliMinimum)||(jumlahBeliSusu>=jumlahBeliMinimum)}");
         }
     }
 }
