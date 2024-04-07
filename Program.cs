@@ -80,6 +80,38 @@ namespace LearningCsharp{
 
             modulus = numberA % numberB;
             Console.WriteLine("{0} % {1} = {2}", numberA, numberB, modulus);
+
+            Console.WriteLine("===== Luas Persegi Panjang =====");
+            int panjang = 5;
+            int lebar = 4;
+
+            int luas = panjang * lebar;
+            Console.WriteLine("Luas = {0}", luas);
+
+            Console.WriteLine("===== Assigment Operator =====");
+            int angka1, angka2;
+            angka1 = angka2 = 5;
+
+            // angka1 = angka1 + angka2
+            Console.WriteLine("Nilai angka1 += angka2 = {0}", angka1 += angka2);
+
+            // angka1 = angka1 - angka2
+            Console.WriteLine("Nilai angka1 -= angka2 = {0}", angka1 -= angka2);
+
+            // angka1 = angka1 * angka2
+            Console.WriteLine("Nilai angka1 *= angka2 = {0}", angka1 *= angka2);
+
+            // angka1 = angka1 / angka2
+            Console.WriteLine("Nilai angka1 /= angka2 = {0}", angka1 /= angka2);
+
+            // angka1 = angka1 % angka2
+            Console.WriteLine("Nilai angka1 %= angka2 = {0}", angka1 %= angka2);
+
+            // angka1 = angka1 + 1 (increment)
+            Console.WriteLine("Nilai angka1++ = {0}", angka1++);
+
+            // angka1 = angka1 - 1 (decrement)
+            Console.WriteLine("Nilai angka1-- = {0}", angka1--);
         }
     }
 }
