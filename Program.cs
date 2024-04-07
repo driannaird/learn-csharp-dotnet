@@ -51,6 +51,35 @@ namespace LearningCsharp{
             Console.WriteLine(myDouble);
             Console.WriteLine(myInt);
             Console.WriteLine(myOtherInt); 
+
+            Console.WriteLine(Math.E);
+            Console.WriteLine(Math.PI);
+
+            Console.WriteLine("===== Arithmetic Operator =====");
+            int numberA;
+            int numberB;
+            int penjumlahan = 0, pengurangan = 0, perkalian = 0, modulus = 0;
+            double pembagian = 0;
+
+            Console.Write("Angka1 = ");
+            numberA = int.Parse(Console.ReadLine());
+            Console.Write("Angka2 = ");
+            numberB = int.Parse(Console.ReadLine());
+
+            penjumlahan = numberA + numberB;
+            Console.WriteLine("{0} + {1} = {2}", numberA, numberB, penjumlahan);
+
+            pengurangan = numberB - numberA;
+            Console.WriteLine("{0} - {1} = {2}", numberA, numberB, pengurangan);
+
+            perkalian = numberA * numberB;
+            Console.WriteLine("{0} x {1} = {2}", numberA, numberB, perkalian);
+
+            pembagian = numberA / numberB;
+            Console.WriteLine("{0} / {1} = {2}", numberA, numberB, pembagian);
+
+            modulus = numberA % numberB;
+            Console.WriteLine("{0} % {1} = {2}", numberA, numberB, modulus);
         }
     }
 }
